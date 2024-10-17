@@ -199,5 +199,4 @@ export const ResumeButton = styled.a`
         padding: 12px 0;
         font-size: 18px;
     } 
-
 `;
