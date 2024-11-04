@@ -87,7 +87,6 @@ export const skills = [
     ],
   },
 ];
-
 export const experiences = [
   {
     id: 0,
