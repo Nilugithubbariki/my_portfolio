@@ -5,7 +5,7 @@ export const Bio = {
     "I’m a passionate Frontend Developer focused on building clean, responsive, and interactive UIs. I have expanded my skills into backend development with Node.js, Express.js, and MongoDB, and built a full stack project to deepen my understanding. Eager to turn ideas into real products through hands-on development, I’m motivated to learn, grow, and make a meaningful impact.",
   github: "https://github.com/Nilugithubbariki?tab=repositories",
   resume:
-    "https://drive.google.com/file/d/1ARTSu_dFnbqtpAw_V-4lI5dFjA9_Hebm/view?usp=sharing",
+    "https://drive.google.com/file/d/1GlAhW-goYBjKbEwCH1eH9r2F2nL4rxM7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nilanchala-bariki-18302120b/",
 };
 
