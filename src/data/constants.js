@@ -5,8 +5,8 @@ export const Bio = {
     "Frontend Developer with 3+ years of experience building responsive, high-performance web applications using React.js, TypeScript, and Redux Toolkit . Skilled in developing scalable, reusable UI components , integrating RESTful APIs , and delivering pixel-perfect, accessible designs based on Figma prototypes. Experienced working in Agile teams with Git, Jira, and CI/CD pipelines . Passionate about clean code , UI performance optimization , and crafting exceptional user experiences across devices.",
   github: "https://github.com/Nilugithubbariki?tab=repositories",
   resume:
-    "https://drive.google.com/file/d/1cZJhWAxzO1i6LtzkCJu0MLtu4k_r1HEU/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/nilanchala-bariki-18302120b/",
+    "https://drive.google.com/file/d/1_EVEZ7WeN-xsY2aC5eOzP4DqWcmfcRSk/view?usp=sharing",
+  linkedin: "",
 };
 
 export const skills = [
