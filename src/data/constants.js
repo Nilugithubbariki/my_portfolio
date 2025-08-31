@@ -5,7 +5,7 @@ export const Bio = {
     "Frontend Developer with 3+ years of experience building responsive, high-performance web applications using React.js, TypeScript, and Redux Toolkit . Skilled in developing scalable, reusable UI components , integrating RESTful APIs , and delivering pixel-perfect, accessible designs based on Figma prototypes. Experienced working in Agile teams with Git, Jira, and CI/CD pipelines . Passionate about clean code , UI performance optimization , and crafting exceptional user experiences across devices.",
   github: "https://github.com/Nilugithubbariki?tab=repositories",
   resume:
-    "https://drive.google.com/file/d/1_EVEZ7WeN-xsY2aC5eOzP4DqWcmfcRSk/view?usp=sharing",
+    "",
   linkedin: "",
 };
 
@@ -106,11 +106,31 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEcwaYik2791g/company-logo_100_100/B56ZV9kVCfHoAQ-/0/1741568430537/globallogic_logo?e=1756944000&v=beta&t=luzPa8DWFYZdfw89mXLCWObj2-s97jE4s64fgU_s9DE",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQGi4FpZbK-E3Q/company-logo_200_200/B56ZdeiIiAHEAM-/0/1749637697701/adrola_software_technologies_limited_logo?e=1759363200&v=beta&t=of2A3iIRG-3lri2d7d9llX-2XQaUXtHAVtw4I_WbXQ8",
     role: "Front End Developer",
-    company: "GlobalLogic",
-    date: "04/2022 - Present",
-    desc: "As a Frontend Developer at GlobalLogic, I contributed to building a scalable mortgage-based fintech application, delivering a seamless and responsive user experience across web and mobile platforms. Leveraging React.js, TypeScript, Redux Toolkit, and Material UI, I developed robust UI components and integrated RESTful APIs with secure JWT-based authentication and advanced error handling. I applied modern React Hooks like useEffect, useMemo, and useCallback to manage complex state and lifecycle scenarios, while optimizing performance using code splitting, lazy loading, and memoization techniques. My role also involved building reusable design systems using Atomic Design principles and translating Figma wireframes into pixel-perfect, accessible UIs. I engineered key features including dynamic dashboards, form validations (React Hook Form + Yup), dark/light mode, real-time user feedback (skeletons, toasts), and custom theming using Material UI. I actively collaborated in Agile sprints, working with product managers, QA engineers, and design teams, while maintaining a clean and scalable codebase following SOLID, DRY, and TypeScript best practices. My workflow included version control with Git, task tracking with JIRA, and writing unit/integration tests using Jest and React Testing Library to ensure code reliability and long-term maintainability.",
+    company: "ADROLA SOFTWARE TECHNOLOGIES LIMITED",
+    date: "09/2023 - 06/2025",
+    desc: "Developed responsive web applications using React.js, Redux Toolkit, Material UI and TypeScript within an Agile team setup. Integrated RESTful APIs using Axios with proper error handling and JWT-based authentication. Used React Hooks (useState, useEffect, useCallback, useMemo) for efficient state and lifecycle management. Applied performance optimizations using lazy loading, code splitting, and React.memo. Collaborated using Git, JIRA, and conducted regular code reviews for high-quality code.",
+    skills: [
+      "React",
+      "Javascript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "GitHub",
+      "PostMan",
+      "Swagger",
+      "Material-UI",
+    ],
+  },
+  {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/v2/C510BAQE7hbVWuuQW3A/company-logo_200_200/company-logo_200_200/0/1631373384806?e=1759363200&v=beta&t=rZk0_05osQy5hcPF0RZcZtMKGHvz72jYNiWZ-vAb35I",
+    role: "Front End Developer",
+    company: "Finacplus",
+    date: "05/2022 - 09/2023",
+    desc: "Built a mortgage-based fintech application using React.js, JavaScript, and TypeScript, delivering a clean and intuitive user experience across devices. Utilized Material UI’s pre-built components and custom styling to ensure consistent branding and responsive design throughout the application.Integrated RESTful APIs using Axios, handling real-time financial data with proper loading states, error boundaries, and user feedback mechanisms.Implemented Redux Toolkit for efficient state management and used React Hooks (useState, useEffect, useSelector, useDispatch) for modular, performant logic. Collaborated with product managers and UI/UX designers to translate wireframes into functional, pixel-perfect components, improving overall user flow and engagement.",
     skills: [
       "React",
       "Javascript",
