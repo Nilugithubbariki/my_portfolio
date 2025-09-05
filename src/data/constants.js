@@ -106,6 +106,27 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQHpqJr8CoB4Bw/company-logo_200_200/B4DZVkOtrtHwAI-/0/1741143334326/hostedai_logo?e=1759968000&v=beta&t=3G0i2u7HF6SqaUoaWT0g-XyPgWov19FORJrt2oBtwqo",
+    role: "Front End Developer",
+    company: "hosted.ai",
+    date: "09/2025 - present",
+    desc: "Currently working on Frontend development and collaborating with AI/ML teams where GPU cloud is used for model training, while I focus on integrating AI-powered features into the UI.",
+    skills: [
+      "React",
+      "Javascript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "Bitbucket",
+      "PostMan",
+      "Swagger",
+      "Tailwind CSS",
+      "Saas"
+    ],
+  },
+  {
+    id: 1,
     img: "https://media.licdn.com/dms/image/v2/D560BAQGi4FpZbK-E3Q/company-logo_200_200/B56ZdeiIiAHEAM-/0/1749637697701/adrola_software_technologies_limited_logo?e=1759363200&v=beta&t=of2A3iIRG-3lri2d7d9llX-2XQaUXtHAVtw4I_WbXQ8",
     role: "Front End Developer",
     company: "ADROLA SOFTWARE TECHNOLOGIES LIMITED",
