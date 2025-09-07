@@ -86,6 +86,10 @@ export const skills = [
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
+        name: "Vercel",
+        image: "https://cdn.intuji.com/2022/06/Logo_Vercel-1.jpg"
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -98,8 +102,12 @@ export const skills = [
       {
         name: "Swagger",
         image:
-          "https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png",
+          "https://media.licdn.com/dms/image/v2/D4E12AQFCF8t5OFcr1w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725357988902?e=2147483647&v=beta&t=vmgQVazbzDQ6sjs-1de-xhukATteoLKqEUtzA6TGNB4",
       },
+      {
+        name: "Bitbucket",
+        image: "https://mattermost.com/wp-content/uploads/2022/03/bitbucket-logo.webp"
+      }
     ],
   },
 ];
@@ -225,12 +233,11 @@ export const projects = [
     image: "http://localhost:5173/public/banner.jpg",
     tags: [
       "React Js",
-      "Node Jss",
+      "Node Js",
       "Express Js",
       "MongoDB",
       "JavaScript",
-      "HTML",
-      "CSS",
+      "TailwindCSS",
     ],
     category: "",
     github: "https://github.com/Nilugithubbariki/fullstack",
