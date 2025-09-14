@@ -107,6 +107,10 @@ export const skills = [
       {
         name: "Bitbucket",
         image: "https://mattermost.com/wp-content/uploads/2022/03/bitbucket-logo.webp"
+      },
+      {
+        name: "Jira",
+        image: "https://www.logicgate.com/wp-content/smush-webp/plt-jira-01-hero-01.png.webp"
       }
     ],
   },
